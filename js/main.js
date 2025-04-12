@@ -11,4 +11,3 @@ window.addEventListener("load", function () {
 });
 /******/ })()
 ;
-//# sourceMappingURL=main.js.map
